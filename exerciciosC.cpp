@@ -1,8 +1,9 @@
-#include <stdio>
+#include <stdio.h>
 
 int main() { 
 
     printf("programa");
-    printf("programasss");
+    printf("programassccxxxxcxcs");
+    
 
 }
