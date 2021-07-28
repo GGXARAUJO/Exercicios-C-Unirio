@@ -9,7 +9,7 @@ scanf("%d", &n);
     contador = 1;
 
     while (contador <= n)
-    { 
+    {
         printf( "%d ", contador);
         contador = contador + 1;
 
